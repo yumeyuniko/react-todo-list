@@ -47,6 +47,7 @@ const CreateTaskPopup = ({ modal, toggle, save }) => {
           ></textarea>
         </div>
       </ModalBody>
+
       <ModalFooter>
         <Button color="primary" onClick={handleSave}>
           Create
