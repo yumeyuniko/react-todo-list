@@ -71,6 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <img src="readme.gif" width=50%>
 
+![](https://res.cloudinary.com/djnhw4aey/image/upload/v1648456362/readme_mkybax.png)
+
 Thank you for your awesome contents!
 
 <img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" width="100px">
